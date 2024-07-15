@@ -1,6 +1,6 @@
 
 print('-'*90)
-# Obtém um valor numérico do usuário com a mensagem de entrada fornecida
+# TESTE Obtém um valor numérico do usuário com a mensagem de entrada fornecida
 def obter_valor_numerico(mensagem):
     while True:
         try: 
